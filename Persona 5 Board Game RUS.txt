@@ -1,0 +1,282 @@
+Welcome to the Persona 5 Board Game!
+
+The Persona 5 fan made board game is a 30 to 45 minute co-operative game for 1 or 2 players.
+
+Each player selects a Phantom Thief to play as, and with only 4 weeks on the calendar, must defeat a corrupt adult by clearing their palace of Shadows and steal their heart.
+
+Each day, you must decide how to spend your limited time to acomplish your goal. Will you go to school to increase your social stats? Attempt to recruit confidants to gain perks? Or make a run on the palace, fighting through shadows to reach the boss?
+
+Only the most clever and brave can succeed as Phantom Theives, are you up to the challenge?
+
+Set up:
+
+Step 1.)	Place the 3 stacks of resources (Stamina, SP, Bullet), and Cash Tokens on the table
+
+Step 2.)	Lay down the 5 Starting Locations (Home, School, Sales Clerk, Weapons Shop, Clinic)
+
+Step 3.)	Select a Character for each player to play, set it in front of you
+
+	        Place the dice on top of the social stat spaces starting with the same value as displayed in the space
+			
+Step 3.1)	If you have passives that give you additional resources, take them now (Ex: Haru's Fully Loaded)
+
+Step 3.2)	Return unused character sheets and confidant cards to the box.
+
+	        Ex. One player game with Ryuji, remove all other player sheets and Ryuji's Confidant card from play.
+			
+	        If no one is playing Joker, also remove Igor and Caroline & Justine confidant cards from play.
+			
+Step 4.)	Reveal 5 random Confidants, placing 1 below each location 
+
+Step 5.)	Select a Palace to Attempt, and place it in the middle of the table
+
+	        Place the Reference board ON TOP of the Palace board, covering the bottom half, only revealing the 0% Alert effect
+			
+	        As the Alert of the palace goes up, slide the reference card down to reveal the additional % Alert effects
+			
+Step 7.)	Reveal 2 random Shadows per player next to the Palace.
+
+Step 8.)	ONLY IF SOLO, give yourself 1 of each resource (Stamina, SP, Bullet and Cash)
+
+Step 8.1.)	In 2 player games, you start with NO resources.
+
+Step 9.)	Place the Calendar Tracker down. Put a red damage cube on day 1 to act as the day tracker.
+
+"NOTE: ONLY Joker uses the persona abilities of defeated shadows. (Only Joker starts with 5 random shadows.) 
+
+The other characters do not gain anything from defeated shadows. (They cannot give them to the Joker player after defeating them either)"	
+
+Optional Rule: You may treat Akechi the same as Joker (giving him 5 random starting shadows instead of using his pre-set list of skills in co-op mode.	
+
+NOTE: In 2 player mode, players DO NOT SHARE resources OR their confidants. If one player recruits Futaba for example, only that player gains Futaba's confidant ability, not all players!	
+
+Social Stat Icon: Every player has 5 social stats. These are used when you take Social Stat Checks.
+
+Skill Type: Match a shadow’s Weaknesses to deal ANY damage
+
+Skill Cost: The amount of resources you need to pay to activate this skill
+
+Social Stat Icons: Clockwise (start w/ Glasses): Knowledge, Guts, Proficiency, Compassion, Charm
+
+Shadow’s Weaknesses: If you attack this shadow with a skill that has this Skill Type, any damage dealt becomes ANY
+
+Shadow Ability: Theres are effects that the shadows possess. Here, when you enter the palace, you must pass a Charm social stat check or pay 1 Bullet.
+
+Shadow’s Health: This is the damage needed to defeat this shadow. Here you need to deal 3 Bullet and 1 SP resources either with skills or by spending resources.
+
+Persona Ability: This is the ability gained by the player ONLY IF YOU ARE THE JOKER. The other phantom theives cannot use these.
+
+Skill Type: Match a shadow’s Weakness to deal ANY type damage, (also auto succeeds "Dice:" abilities)
+
+Skill Cost: The amount of resources you need to pay to activate this skill. (Auto skills are passives)
+
+Social Stat Checks: These are the social stat checks you need to succeed to recruit this confidant. You must pass BOTH checks. Failing only 1 still grants a +1 to that social stat
+
+Confidant Ability: You gain the confidant’s ability immediately after recruting the confidant, and it is active for the rest of the game.
+
+Turn Reference:	
+
+On each day, you and your partner may take your turns in any order.	
+
+On a player's turn, you take ONLY 1 of the following actions:	
+
+Visit a new Location:	Move your player marker to an new location and perform the effects listed on your new location. (You cannot remain in the same location as you started on.) 
+
+Visit a new location to Recruit a Confidant:	Move your player marker to an new location that has an available confidant. (You cannot remain in the same location as you started on.) 
+
+	Perform both social stat checks listed in the upper right area of the Confidant card.
+	
+	If both social stat checks pass, you recruit the confidant, taking their card and keeping it next to you. The confidant ability is immediately active and available. 
+	
+On a failure, the day is not entirely wasted. Instead, you gain a +1 to one of the social stats checked (only 1 stat, not both.)
+
+Discover a Location:	Spend 1 Cash to reveal the top card of the Locations deck and place it next to the other locations.
+ 
+Then reveal the top confidant card of the confidants deck and assign it to the new location. 
+
+Then visit that location and perform the location action or attempt to recruit the newly revealed confidant.
+
+Visit the Palace:	Move your player marker to the Palace Card. (It's ok if another player is already in the palace.)
+
+Execute any "On Palace Enter:" effects of shadows and the palace itself. These effects are cumulative.
+
+(You can not stay at the Palace if you started your turn there.)
+
+	You may fight as many shadows as you are able to (refer to combat rules below)
+	
+	When all revealed shadows are defeated, the security level of the palace goes up by 25%
+	
+     -slide reference card covering the palace card down 1 row
+	 
+     -reveal 2 new shadows per player (unless palace says to reveal more)
+	 
+	You may continue to fight newly revealed shadows in the same visit (day)
+	
+When you end your turn, any damage dealt to Shadows remain on those shadows, even after you leave the palace
+
+Once all players have taken a turn, move the day marker cube on the Calendar up by 1.	
+
+The Game Ends When:	
+
+     -The Palace Boss is defeated, all players win	
+	 
+     -Day tracker moves past 28 days (4 weeks) and the palace boss have not been defeated, all players lose	
+	 
+Action Rules:	
+
+Visit a Location:	You can not visit a location you are currently in (So you must move to a new location each turn)
+
+	The effects on each location are carried out from top down
+	
+	If the cost of a location can not be paid, do not carry out the effect of the location
+	
+Recruit a Confidant:	Confidants have 2 Social Stat Checks, you must pass BOTH checks to succeed the recruitment. For example, Kawakami requires you to successfully perform both a Charm AND a Kindness Test (refer to social stat checks for how to perform a test)
+
+	After gaining a confidant, a new confidant is not revealed to take it's place. The only way to discover new confidants is by discovering a new location. 
+	
+	On a failure, the day is not entirely wasted. Instead, you gain a +1 to one of the social stats checked (only 1 stat, not both.)
+	
+Social Stat Checks:	Roll dice equal the Social Stat being checked. If at least one dice rolls a success (face up side is a Phantom Thief symbol), you succeed on the check. (2 of the 6 sides of a phantom thief dice are successes) (If using a regular d6, a success is a 5 or 6)
+
+	For example: Ryuji starts with a Guts of 4. When he performs a Guts check, he rolls 4 "Phantom Thief" dice. If one of them has a face up Phantom Thief symbol, he succeeds.
+	
+Discover a Location:	When you spend the day to discover a new location, you MUST visit that location. If the location costs cash to activate, you may still attempt to recruit the confidant that was just revealed.
+
+Combat Rules:	
+
+Visiting the Palace (Combat Rules):	Revealed Palace Effects are cumulative.
+
+	Execute all "On Palace Enter:" effects when you enter the Palace. (You decide the order of execution)
+	
+	You may then start to use your resources (Stamina, Bullets, SP, and sometimes even Cash) to defeat the shadows in the palace. Each shadow lists the required resources needed to be defeated.
+	
+	Resources you've used are flipped over, while used cash tokens are discarded. 
+	
+	You have access to all of your character sheet's Persona abilities. They can be used as long as you can pay for their activation costs.
+	
+	Shadow Weaknesses matter! (See below)
+	
+	Some abilities begin with "Dice:", for these roll a single Phantom Thief die after paying its activation cost. Activate the ability if the dice roll lands on a phantom theif symbol. (5 or 6 on a regular d6)
+	
+	Some Shadows have abilities that say "On Death:", these execute when you defeat said shadow. (The effect only targets the active player.)
+	
+	If you do not have the resources to pay for an On Palace Enter or On Death effect, ignore the effect.
+	
+	Whenever you've defeated a shadow, you take the shadow card and keep it. This does not have any benefits unless you are playing as Joker.
+	
+	After defeating all available shadows, security level immediately rises, and new shadows are revealed. You can stay in the palace and fight newly revealed shadows until you run out of resources. (This has the advantage of not triggering any newly revealed On Palace Effects.)
+	
+	Fighting the Palace Boss:	When the palace's security level rises to 100%, the palace is flipped over to reveal the palace boss. Do not reveal any new shadows unless the Boss card specifically says to do so.
+	
+	The previous effects of the palace card are no longer active.
+	
+	The Palace Boss counts as a "Shadow" for the purpose of abilities that target shadows.
+	
+	If the Boss is defeated, the game immediately ends in victory for the player(s)!
+	
+	Shadow Weaknesses:	If you use a skill which a shadow is weak to, damage the skill does becomes ANY type instead. Meaning even if a Skill normally only deals 3 Stamina damage, you can use that 3 damage to deal SP, Bullet, or even Cash damage instead. 
+	
+	EX: if you use Zionga, which costs 2 SP to deal 3 Stamina damage, and the target shadow is weak to Electricity, you deal 3 ANY type damage instead, meaning 3 damage of any type.
+	
+	If the skill starts with "Dice:", the ability also activates automatically, as if you succeeded on the dice roll.
+	
+	Terminology:	
+	
+	Restore X:	Restores a spent resource (Stamina, SP, or Bullet) by flipping it from the black and white side to the colored side.
+	
+Spend X:	Spends a resource (Stamina, SP, or Bullet) by flipping it from the colored side to the black and white side. Spending cash discards the cash token instead.
+
+Gain X:	Gains a new resource (Stamina, SP, Bullet, or Cash). When gaining a resource, it is filled, being on the colored side, not spent.
+
+Pay X:	Spends a resource if possible. If a shadow or palace tells you to pay a resource, but you have none of that resource left unspent, the effect is ignored.
+
+ANY:	When an ability would deal "Any" damage, that damage can fulfill any resource (Stamina, SP, Bullet, or even cash). Ex: An ability that deals 3 ANY damage to 1 shadow can be used to deal 1 Stamina and 2 SP damage to 1 Shadow.
+
+Dice:	When an ability says Dice:, roll 1 phantom theif dice (d6), the ability activates if it lands on a Phantom Thief symbol. (If using a regular d6, a success is a 5 or 6). If the skill matches a shadow's weakness, you automatically succeed the dice roll.
+
+1/Day:	1/Day abilities can be used once per day, inside OR outside of the Palace.
+
+1/Palace:	1/Palace abilities can be used once per Palace entry. They are like 1/Day abilities, but can only be used on days spent inside the Palace.
+
+Special Thanks:	Special Thanks to my Patreon Sponsors: Elizabeth Cone, Tony De La Torre, Daniel Armstrong, and Hlussë
+
+Additional thanks to my fan contributors: Onionsans., Eric Mun (DiZeroX), Firox, and Caden Bass
+
+Clarifications:	
+
+Yuuki Mishima	Mishima's ability can only be used while in the palace. He only counts confidants you've recruited, so Igor and Caroline&Justine does not count as you did not "recruit" them. The resource you recover does not need to be all Stamina or all SP, it can be a mixture of both. 
+
+Caroline & Justine	Personas you draw can not be assigned to your active Persona party while you are in the palace. You can change up your persona list as much as you'd like while outside the palace.
+
+Persona Abilities that give resources	Persona abilities that give additional resources to the Joker player are gained only while that persona is active, and are always gained spent. (So equipping Thoth gives you 2 spent Stamina). When you unequip that persona, you lose those resources (losing unspent resources first.)
+
+Alice's Persona Ability	Roll the dice ONCE for all shadows. Even if the dice roll failed, shadows weak to curse still lose 2 ANY.
+
+"Amp" abilities	"Skills like Ice Amp allow Ice skills to deal an extra Bullet damage. Even if the original skill does not deal Bullet damage, the Amp skill adds 1 Bullet, so Bufu for example will deal 2 Stamina and 1 Bullet with Ice Amp.
+
+If the target is weak to ice, all 3 damage becomes converted to ANY type, so even the extra damage from Ice Amp follows weakness rules."
+
+Resource Limits	Resources are limited by the physical token supply. If there are no more SP tokens, you can no longer gain additional SP.
+
+Social Stats vs Resources	"Your 5 social stats are NOT resources.
+
+Your resources are Stamina, SP, Bullets, and Cash.
+
+Your social stats are Knowledge, Guts, Charm, Compassion, and Proficiency.
+
+These are NOT the same things."
+
+3 to 4 players can play the game optionally, but this will extend the game length considerably! Around 60-90 minutes per game.	
+
+The primary difference is simply set up. In 3 and 4 player gamers, instead of challenging 1 palace, the group will challenge 2 palaces SIMULTANEOUSLY!	
+
+In 3 player games	Select 2 palaces, reveal 3 shadows inside of each palace. Whenever a palace is cleared of it's shadows, reveal 3 new ones. If a palace says to reveal more per player, treat the player count as 2.
+
+In 4 Player Games	Select 2 palaces, reveal 4 shadows inside of each palace. Otherwise same as 3 player rules.
+
+When entering and fighting shadows in a palace, you can only damage the shadows in THAT ONE palace, not both.
+	
+It is ok to enter a palace if another player is already inside of the palace however (just like in 2 player games.)	
+
+Winning the Game	Both palace bosses must be defeated within the same 28 day limit for the group to succeed!
+
+"Word of warning! (And how to play 3-4 players faster with simultaneous action)"	
+
+"Because this is still a turn based game, with 4 players, a single day can take quite some time. It can be especially tempting to micromanage what your friends are doing with their day.
+
+Don't Do This!!!
+
+This is called quarter backing in board gaming, and it is incredibly rude and can ruin the experience of the game for your friends.
+
+If you find that this is a problem with your group, try to create some house rules that allow the days to be played simultaneously. 
+
+For example, At the start of each day, players who want to visit the palace declare they do so, but ONLY 1 PLAYER PER PALACE, then, everyone else immediately executes their regular day plans.
+
+This way, players are only ever confronting the palace on their own in a single day, and everyone else just executes whatever it was they wanted to do, be that increasing their social stats, recruitng confidants, or gaining more resources.
+
+For people who are unfamiliar with games, simultaneous turns can be very confusing and hectic, so make sure there is someone who guides the players through their first couple of turns to make sure everyone is on the same page of what they can or cannot do in their day."
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
